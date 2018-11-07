@@ -13,3 +13,5 @@ Libraries Used -
 * Matplotlib
 * Seaborn
 * sklearn
+
+> Note - Data used in the process can be downloaded from https://www.kaggle.com/tmdb/tmdb-movie-metadata
